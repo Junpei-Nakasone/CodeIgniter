@@ -1,3 +1,7 @@
+--
+This is fork of CodeIgniter Framework in purpose of leaning how each code works.
+Some of comments might be redundant cause it's focus on explaining.. 
+
 ###################
 What is CodeIgniter
 ###################
